@@ -54,11 +54,14 @@
 </div>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinhee818)](https://github.com/shinhee818/github-readme-stats)
-
-
 <br>
+
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinhee818)](https://github.com/shinhee818/github-readme-stats)
+[![Sini's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinhee818)](https://github.com/shinhee818/github-readme-stats)
+</div>
+
+
 
 <!-- <h3 align="center">📫 Contact 📫</h3> -->
 <!-- <div align="center">
