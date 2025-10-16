@@ -20,12 +20,21 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
-  <img src="https://img.shields.io/badge/postgresql-150458.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
+  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=FF4438" />&nbsp
   <img src="https://img.shields.io/badge/clickhouse-11557c.svg?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" />&nbsp
 </div>
 
 <br>
+
+<h3 align="center">Infra Structure</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/aws-3670A0?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
+  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=FF4438" />&nbsp
+  <img src="https://img.shields.io/badge/clickhouse-11557c.svg?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" />&nbsp
+</div>
+
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
