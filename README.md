@@ -53,9 +53,10 @@
   <img src="https://img.shields.io/badge/gitlab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=black" />&nbsp
 </div>
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinhee818)](https://github.com/shinhee818/github-readme-stats)
 
-<br>
 
 <br>
 
