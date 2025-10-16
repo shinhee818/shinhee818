@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=sini's%20github&fontSize=90)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-<h3 align="center">BACKEND DEVELOPMENT</h3>
+<h3 align="center">Backend Developmnet</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/springboot-F7DF1E.svg?style=for-the-badge&logo=springboot&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/java-F7DF1E.svg?style=for-the-badge&logo=java&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/SpringBatch-E34F26.svg?style=for-the-badge&logo=SpringBatch&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">FRONTEND DEVELOPMENT</h3>
+<h3 align="center">Frontend Developmnet</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/react-1daabb.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
@@ -16,12 +16,13 @@
 </div>
 
 <br>
+<h3 align="center">Database</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
+  <img src="https://img.shields.io/badge/postgresql-150458.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" />&nbsp
+  <img src="https://img.shields.io/badge/redis-4d77cf.svg?style=for-the-badge&logo=redis&logoColor=FF4438" />&nbsp
+  <img src="https://img.shields.io/badge/clickhouse-11557c.svg?style=for-the-badge&logo=clickhouse&logoColor=FFCC01" />&nbsp
 </div>
 
 <br>
